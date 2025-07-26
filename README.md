@@ -53,4 +53,4 @@ Inspired by the classic `top` utility, WTop is a real-time terminal interface th
 
 ---
 
-> *"I don’t just build tools—I maintain and evolve them. My focus is quality over quantity, with long-term goals in offensive engineering, embedded security, and incident response."*
+> *"When its your time, its your time. - Cherokee Company, 2nd platoon 1st squad, 1st Battalion 5th Marine Regiment, 1st Marine Division"*
