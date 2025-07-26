@@ -2,7 +2,7 @@
 
 I'm **Rich aka Islc12** — a U.S. Marine Corps veteran turned System Administrator, passionate about network security, low-level systems programming, and building practical tools for red teams.
 
-I started my journey earning my first degree in **Cybersecurity (AAS)**. I'm now pursuing a **B.S. in Computer Science**, I'm working towards a specialization in security-oriented software development using **Python**, **Java** & **C**. Professionally, I'm a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure.
+I started my journey earning my first degree in **Cybersecurity (AAS)**, now pursuing a **B.S. in Computer Science**. I'm working towards a specialization in security-oriented software development, with interest in embedded devices and systems, using **Python**, **Java** & **C**. Professionally, I'm a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure.
 
 ---
 
