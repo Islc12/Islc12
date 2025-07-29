@@ -1,8 +1,8 @@
 # Welcome to My GitHub
 
-I'm **Rich aka Islc12** — a U.S. Marine Corps combat veteran (OEF 2011) turned System Administrator, passionate about network security, low-level systems programming, and building practical tools for red teams.
+I'm **Rich aka Islc12** — a U.S. Marine Corps combat veteran (OEF 2011) turned System Administrator, passionate about network security, low-level systems programming, and building practical tools for professionals.
 
-I started my journey earning my first degree in **Cybersecurity (AAS)**, now pursuing a **B.S. in Computer Science**. I'm working towards a specialization in security-oriented software development, with interest in embedded devices and systems, using **Python**, **Java** & **C**. Professionally, I'm a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure.
+I started my journey earning my first degree in **Cybersecurity (AAS)**, now pursuing a **B.S. in Computer Science**. I'm working towards a specialization in security-oriented software development, with interest in embedded devices and systems, using **Python**, **Java** & **C**. Professionally, I'm currently a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure across multiple sites.
 
 ---
 
@@ -19,7 +19,7 @@ A precision-crafted wireless DoS attack tool designed for security testing. Buil
 ---
 
 ### [WTop](https://github.com/Islc12/WTop)
-**Terminal-based Network Process Viewer**
+**Terminal-based Network Process Viewer (PowerShell)**
 
 Inspired by the classic `top` utility, WTop is a real-time terminal interface that displays per-process CPU, Memory & NPM usage. Written as a PowerShell script, WTop can be a useful tool for remote systems monitoring for system administrators using minimal system resources itself compared to conventional RMM software.
 
