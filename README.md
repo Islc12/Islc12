@@ -13,7 +13,7 @@ I started my journey earning my first degree in **Cybersecurity (AAS)**, now pur
 
 A precision-crafted wireless DoS attack tool designed for security testing. Built using raw sockets completely within the Python Standard Library, OkeusStrike gives users full control over deauthentication frames. This includes having a framework that allows for building frames entirely from scratch, allowing complete control for Security Research purposes. A future version will be rewritten in C for performance.
 
-> Focus: Offensive Security | WiFi Attacks | Protocol Framing | Scapy | Raw Sockets  
+> Focus: Offensive Security | WiFi Attacks | Protocol Framing | Raw Sockets  
 > Status: Active Development (Python) → Rewrite (C)
 
 ---
@@ -21,9 +21,9 @@ A precision-crafted wireless DoS attack tool designed for security testing. Buil
 ### [WTop](https://github.com/Islc12/WTop)
 **Terminal-based Network Process Viewer (PowerShell)**
 
-Inspired by the classic `top` utility, WTop is a real-time terminal interface that displays per-process CPU, Memory & NPM usage. Written as a PowerShell script, WTop can be a useful tool for remote systems monitoring for system administrators using minimal system resources itself compared to conventional RMM software.
+Inspired by the classic `top` utility, WTop is a terminal interface program that displays per-process CPU, Memory & NPM usage. Written as a PowerShell script, WTop can be a useful tool for remote systems monitoring for system administrators using minimal system resources itself compared to conventional RMM software.
 
-> Focus: Resource Monitoring | Remote System Administration | TUI Interfaces  
+> Focus: Resource Monitoring | Remote System Administration | TUI Interface
 > Status: Initial Development
 
 ---
@@ -42,15 +42,15 @@ Inspired by the classic `top` utility, WTop is a real-time terminal interface th
 
 - Complete my BS in Computer Science
 - Complete a rewrite of OkeusStrike in **C**
-- Expand WTop to support live DNS/port resolution and filtering
+- Expand WTop to support live interaction - potentially doing a rewrite in C# at a much later date
 
 ---
 
-## Let's Connect
+## Contact Info
 
 - Email: [richrsmith@proton.me](mailto:richrsmith@proton.me)  
 - Social: [LinkedIn](https://www.linkedin.com/in/rrsmith52324)  
 
 ---
 
-> *"When its your time, its your time." - Cherokee Company, 2nd platoon 1st squad, 1st Battalion 5th Marine Regiment, 1st Marine Division*
+> *"When it's your time, it's your time." - Cherokee 2-1, 1st Bn, 5th Marines*
