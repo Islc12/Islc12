@@ -2,13 +2,13 @@
 
 I'm **Rich aka Islc12** — a U.S. Marine Corps combat veteran (OEF 2011) turned System Administrator, passionate about network security, low-level systems programming, and building practical tools for professionals.
 
-I started my journey earning my first degree in **Cybersecurity (AAS)**, now pursuing a **B.S. in Computer Science**. I'm working towards a specialization in security-oriented software development, with interest in embedded devices and systems, using **Python**, **Java** & **C**. Professionally, I'm currently a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure across multiple sites.
+I started my journey earning my first degree in **Cybersecurity (AAS)**, now pursuing a **BASc Cybersecurity**. I'm working towards a specialization in security-oriented software development, with interest in embedded devices and systems, using **Python** and **PowerShell** while developing proficiency in **C** and **C++**. Professionally, I'm a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure across multiple sites.
 
 ---
 
 ## Featured Projects
 
-# As of 11/08/25 both OkeusStrike and WTop have been taken down from GitHub, I have done this due to not wanting to share the source code with AI and Microsoft. Sorry for the inconvience. 
+# As of 11/08/25 both OkeusStrike and WTop have been taken down from GitHub, I have done this due to not wanting to share the source code with AI training. Sorry for the inconvience. 
 
 ### OkeusStrike
 **802.11 Deauthentication Attack Tool (Python)**
@@ -16,7 +16,7 @@ I started my journey earning my first degree in **Cybersecurity (AAS)**, now pur
 A precision-crafted wireless DoS attack tool designed for security testing. Built using raw sockets completely within the Python Standard Library, OkeusStrike gives users full control over deauthentication frames. This includes having a framework that allows for building frames entirely from scratch, allowing complete control for Security Research purposes. A future version will be rewritten in C for performance.
 
 > Focus: Offensive Security | WiFi Attacks | Protocol Framing | Raw Sockets  
-> Status: Active Development (Python) → Rewrite (C)
+> Status: Code base overhaul (Python) → Rewrite (C)
 
 ---
 
@@ -26,25 +26,26 @@ A precision-crafted wireless DoS attack tool designed for security testing. Buil
 Inspired by the classic `top` utility, WTop is a terminal interface program that displays per-process CPU, Memory & NPM usage. Written as a PowerShell script, WTop can be a useful tool for remote systems monitoring for system administrators using minimal system resources itself compared to conventional RMM software.
 
 > Focus: Resource Monitoring | Remote System Administration | TUI Interface
-> Status: Initial Development
+> Status: Maintaining (PowerShell) → Rewrite (C++)
 
 ---
 
 ## Skills & Tools
 
-- **Languages:** Python, C **(currently studying)**, Java, Bash, PowerShell
+- **Languages:** Python, C/C++ **(currently studying)**, Java, Bash, PowerShell
 - **Domains:** Network Security, Linux Systems, Automation, Incident Response
-- **Tools:** Nmap, Scapy, Wireshark, tcpdump, Hashcat, John the Ripper
+- **Tools:** Nmap, Wireshark, tcpdump, Hashcat, John the Ripper, Zabbix
 - **Environments:** Linux, Windows, VMware vSphere
-- **Editors:** Vim, VSCode, Eclipse, Phoenix Code
+- **Editors:** Vim, VSCode, Phoenix Code, Sublime Text
 
 ---
 
 ## Current Goals
 
-- Complete my BS in Computer Science
+- Complete my **BASc Cybersecurity**
+- Begin work on an **MS Applied Information Technology with concentration in Cybersecurity**
 - Complete a rewrite of OkeusStrike in **C**
-- Expand WTop to support live interaction - potentially doing a rewrite in C# at a much later date
+- Expand WTop to support live interaction
 
 ---
 
