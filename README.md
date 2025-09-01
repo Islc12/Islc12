@@ -25,7 +25,7 @@ A precision-crafted wireless DoS attack tool designed for security testing. Buil
 
 Inspired by the classic `top` utility, WTop is a terminal interface program that displays per-process CPU, Memory & NPM usage. Written as a PowerShell script, WTop can be a useful tool for remote systems monitoring for system administrators using minimal system resources itself compared to conventional RMM software.
 
-> Focus: Resource Monitoring | Remote System Administration | TUI Interface
+> Focus: Resource Monitoring | Remote System Administration | TUI Interface 
 > Status: Maintaining (PowerShell) → Rewrite (C++)
 
 ---
