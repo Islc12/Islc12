@@ -2,7 +2,7 @@
 
 I'm **Rich aka Islc12** — a U.S. Marine Corps combat veteran (OEF 2011) turned System Administrator, passionate about network security, low-level systems programming, and building practical tools for professionals.
 
-I started my journey earning my first degree in **Cybersecurity (AAS)**, now pursuing a **BASc Cybersecurity**. I'm working towards a specialization in security-oriented software development, with interest in embedded devices and systems, using **Python** and **PowerShell** while developing proficiency in **C** and **C++**. Professionally, I'm a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure across multiple sites.
+I started my journey earning my first degree in **Cybersecurity (AAS)**, now pursuing a **BS Computer Science**. I'm working towards a specialization in security-oriented software development, with interest in embedded devices and systems, using **Python** and **PowerShell** while developing proficiency in **C** and **C++**. Professionally, I'm a **System Administrator** for a public sector IT department, where I automate system tasks and maintain both Linux and Windows infrastructure across multiple sites.
 
 ---
 
@@ -42,10 +42,9 @@ Inspired by the classic `top` utility, WTop is a terminal interface program that
 
 ## Current Goals
 
-- Complete my **BASc Cybersecurity**
-- Begin work on an **MS Applied Information Technology with concentration in Cybersecurity**
+- Complete my **BS Computer Science**
 - Complete a rewrite of OkeusStrike in **C**
-- Expand WTop to support live interaction
+- Expand WTop to support live interaction using **C#**
 
 ---
 
